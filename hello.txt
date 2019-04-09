@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hello mm
-=======
 hello aa
->>>>>>> a
